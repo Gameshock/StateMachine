@@ -1,9 +1,5 @@
 using UnityEngine;
-using Cysharp.Threading.Tasks;
 using State = StateMachine<GameState>.State;
-using Unity.VisualScripting;
-using System.Linq;
-using UnityEngine.EventSystems;
 
 public class GameState : MonoBehaviour
 {
