@@ -8,7 +8,7 @@ public class GameState : MonoBehaviour
     private enum EventType : int
     {
         // ゲーム開始
-        Strat,
+        Start,
     }
 
 
